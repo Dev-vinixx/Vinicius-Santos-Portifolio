@@ -13,15 +13,15 @@ createBrowserRouter, RouterProvider
 
 const router = createBrowserRouter([
   {
-    path: "https://dev-vinixx.github.io/Vinicius-Santos-Portifolio/Vinicius-Santos-Portifolio/",
+    path: "dev-vinixx.github.io/Vinicius-Santos-Portifolio/",
     element: <Home />
   },
   {
-    path: "https://dev-vinixx.github.io/Vinicius-Santos-Portifolio/AboutMe",
+    path: "dev-vinixx.github.io/Vinicius-Santos-Portifolio/AboutMe",
     element: <AboutMe />
   },
   {
-    path: "https://dev-vinixx.github.io/Vinicius-Santos-Portifolio/Projects",
+    path: "dev-vinixx.github.io/Vinicius-Santos-Portifolio/Projects",
     element: <Projects />
   }
 ])
