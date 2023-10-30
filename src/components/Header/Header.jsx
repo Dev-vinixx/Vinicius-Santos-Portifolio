@@ -13,8 +13,8 @@ function Header() {
    <nav className={styles.menuNav}>
     <ul className={styles.menuList}>
      <li><a href="/">Inicio</a></li>
-     <li><a href="/AboutMe">Sobre</a></li>
-     <li><a href="/Projects">Projetos</a></li>
+     <li><a href="/Vinicius-Santos-Portifolio/AboutMe">Sobre</a></li>
+     <li><a href="/Vinicius-Santos-Portifolio/Projects">Projetos</a></li>
     </ul>
    </nav>
 

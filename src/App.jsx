@@ -13,15 +13,15 @@ createBrowserRouter, RouterProvider
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Vinicius-Santos-Portifolio",
     element: <Home />
   },
   {
-    path: "AboutMe",
+    path: "/Vinicius-Santos-Portifolio/AboutMe",
     element: <AboutMe />
   },
   {
-    path: "Projects",
+    path: "/Vinicius-Santos-Portifolio/Projects",
     element: <Projects />
   }
 ])
