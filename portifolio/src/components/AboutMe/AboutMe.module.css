@@ -1,0 +1,42 @@
+.body{
+ height: 100vh;
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+ flex-direction: column;
+}
+.main{
+ width: 100%;
+ height: 78vh;
+}
+.section{
+ width: 50%;
+ height: 80vh;
+ margin-inline: auto;
+ font-family: 'Roboto', sans-serif;
+ margin-inline: auto;
+ color: var(--white);
+ justify-content: center;
+ display: flex;
+ flex-direction: column;
+ gap: 50px;
+}
+.h1{
+ font-weight: bold;
+ font-size: 1.5rem;
+}
+.section p{
+ font-weight: 500;
+}
+.tecnologi{
+ font-size: 1.1rem;
+ font-weight: 530;
+}
+.tecnologias{
+ font-size: 1.1rem;
+ font-weight: 500;
+}
+.bold {
+ font-size: 1.1rem;
+ font-weight: 600;
+}

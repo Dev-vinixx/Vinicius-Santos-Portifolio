@@ -1,0 +1,16 @@
+.divIcons{
+ width: 20%;
+ height: 8vh;
+ display: flex;
+ flex-wrap: nowrap;
+ align-items: center;
+}
+.bi{
+ height: 5vh;
+ width: 4vw;
+ transition: 0.2s;
+}
+.bi:hover{
+ transform: scale(1.05);
+ opacity: 0.7;
+}

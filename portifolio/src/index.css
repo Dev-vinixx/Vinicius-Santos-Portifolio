@@ -1,0 +1,25 @@
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  --color-primari: #333333;
+  --color-cecondari: #7b5a83;
+  --color-terceari: #a75cb9;
+  --white: #FFFFFF;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: radial-gradient(circle at center, var(--color-terceari), var(--color-cecondari), var(--color-primari));
+  background-size: 100% 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
